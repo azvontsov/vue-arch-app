@@ -1,0 +1,156 @@
+{
+  "destinations": [
+    {
+      "name": "Residential",
+      "slug": "residential",
+      "image": "residential.jpg",
+      "id": 1,
+      "description":
+        "The homes we design for our clients are more than places to live, they are places where families gather, memories are made, and intimate time is shared. Everyone has their own thoughts on what their ideal home looks like, and the passion of our luxury home architects is bringing these images to life.",
+      "experiences": [
+        {
+          "name": "House #1",
+          "slug": "house-1",
+          "image": "house-1.jpg",
+          "description":
+            "While well-known for high-end residential design, we also provide design services for additions and renovations, comparing the value of a total renovation versus a full or partial demolition while listening to your ideas, goals and financial objectives.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "House #2",
+          "slug": "house-2",
+          "image": "house-2.jpg",
+          "description":
+            "While well-known for high-end residential design, we also provide design services for additions and renovations, comparing the value of a total renovation versus a full or partial demolition while listening to your ideas, goals and financial objectives.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "House #3",
+          "slug": "house-3",
+          "image": "house-3.jpg",
+          "description":
+            "While well-known for high-end residential design, we also provide design services for additions and renovations, comparing the value of a total renovation versus a full or partial demolition while listening to your ideas, goals and financial objectives.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "House #4",
+          "slug": "house-4",
+          "image": "house-4.jpg",
+          "description":
+            "While well-known for high-end residential design, we also provide design services for additions and renovations, comparing the value of a total renovation versus a full or partial demolition while listening to your ideas, goals and financial objectives.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        }
+      ]
+    },
+    {
+      "name": "Commercial",
+      "slug": "commercial",
+      "image": "commercial.jpg",
+      "id": 2,
+      "description":
+        "Your building or office space is a reflection of your business. It should speak to the high quality of services and products awaiting your customers when they walk through the door. Commercial design shouldn’t be synonymous with mediocrity. Just because we have designed bank branches and medical offices doesn’t mean we roll out the same blueprint on every commercial project or upfit we are invited to design. Our years of experience don’t dictate your project’s design, they only serve to enhance your vision.",
+      "experiences": [
+        {
+          "name": "International Airport",
+          "slug": "international-airport",
+          "image": "international-airport.jpg",
+          "description":
+            "As business owners, we are acutely aware of the need for efficient and effective space to ensure the prosperity of your business. In addition to general office space, we have experience in medical, laboratory, dental, banking, and resort designSuspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Sport Arena",
+          "slug": "sport-arena",
+          "image": "sport-arena.jpg",
+          "description":
+            "As business owners, we are acutely aware of the need for efficient and effective space to ensure the prosperity of your business. In addition to general office space, we have experience in medical, laboratory, dental, banking, and resort designSuspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Hockey Arena",
+          "slug": "hockey-arena",
+          "image": "hockey-arena.jpg",
+          "description":
+            "As business owners, we are acutely aware of the need for efficient and effective space to ensure the prosperity of your business. In addition to general office space, we have experience in medical, laboratory, dental, banking, and resort designSuspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Sea Terminal",
+          "slug": "sea-terminal",
+          "image": "sea-terminal.jpg",
+          "description":
+            "As business owners, we are acutely aware of the need for efficient and effective space to ensure the prosperity of your business. In addition to general office space, we have experience in medical, laboratory, dental, banking, and resort designSuspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        }
+      ]
+    },
+    {
+      "name": "Interiors",
+      "slug": "interiors",
+      "image": "interiors.jpg",
+      "id": 3,
+      "description":
+        "If your current commercial interior is tired or outdated, we will be happy to help you update your corporate image. We also design functional, attractive interiors for new builds and up-fits, selecting finishes, furniture and fixtures.",
+      "experiences": [
+        {
+          "name": "Galaxy Design",
+          "slug": "galaxy-design",
+          "image": "galaxy-design.jpg",
+          "description":
+            "If your current commercial interior is tired or outdated, we will be happy to help you update your corporate image. We also design functional, attractive interiors for new builds and up-fits, selecting finishes, furniture and fixtures.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Design Studio",
+          "slug": "design-studio",
+          "image": "design-studio.jpg",
+          "description":
+            "If your current commercial interior is tired or outdated, we will be happy to help you update your corporate image. We also design functional, attractive interiors for new builds and up-fits, selecting finishes, furniture and fixtures.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Matters of Space",
+          "slug": "matters-of-pace",
+          "image": "matters-of-pace.jpg",
+          "description":
+            "If your current commercial interior is tired or outdated, we will be happy to help you update your corporate image. We also design functional, attractive interiors for new builds and up-fits, selecting finishes, furniture and fixtures.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "The Iron Gate",
+          "slug": "the-iron-gate",
+          "image": "the-iron-gate.jpg",
+          "description":
+            "If your current commercial interior is tired or outdated, we will be happy to help you update your corporate image. We also design functional, attractive interiors for new builds and up-fits, selecting finishes, furniture and fixtures.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        }
+      ]
+    },
+    {
+      "name": "Site Planning",
+      "slug": "site-planning",
+      "image": "site-planning.jpg",
+      "id": 4,
+      "description":
+        "We combine regulatory requirements with topography, access, existing vegetation and solar orientation to determine the best use of your site, whether you are looking at a new location or want to determine growth patterns of your current location.",
+      "experiences": [
+        {
+          "name": "Garden Tower Isle",
+          "slug": "garden-tower-isle",
+          "image": "garden-tower-isle.jpg",
+          "description":
+            "We combine regulatory requirements with topography, access, existing vegetation and solar orientation to determine the best use of your site, whether you are looking at a new location or want to determine growth patterns of your current location.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Garden Blue Mountain",
+          "slug": "garden-blue-mountain",
+          "image": "garden-blue-mountain.jpg",
+          "description":
+            "We combine regulatory requirements with topography, access, existing vegetation and solar orientation to determine the best use of your site, whether you are looking at a new location or want to determine growth patterns of your current location.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Garden Montego Bay",
+          "slug": "garden-montego-bay",
+          "image": "garden-montego-bay.jpg",
+          "description":
+            "We combine regulatory requirements with topography, access, existing vegetation and solar orientation to determine the best use of your site, whether you are looking at a new location or want to determine growth patterns of your current location.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Japanese Garden",
+          "slug": "japanese-garden",
+          "image": "japanese-garden.jpg",
+          "description":
+            "We combine regulatory requirements with topography, access, existing vegetation and solar orientation to determine the best use of your site, whether you are looking at a new location or want to determine growth patterns of your current location.Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        }
+      ]
+    }
+  ]
+}
